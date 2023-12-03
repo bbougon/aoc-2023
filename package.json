@@ -1,0 +1,22 @@
+{
+    "name": "aoc-2023",
+    "private": true,
+    "version": "0.0.0",
+    "type": "commonjs",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "vitest --config vitest.config.ts"
+    },
+    "dependencies": {
+        "commander": "^11.1.0",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.3.2"
+    },
+    "devDependencies": {
+        "vite": "^5.0.0",
+        "vitest": "^0.34.6",
+        "prettier": "^3.1.0"
+    }
+}
